@@ -1,1 +1,3 @@
-  # Simple Graphic Caclulator in Swift
+# Simple Graphic Caclulator in Swift
+
+![](ipad.jpg)
